@@ -1,12 +1,48 @@
-# React + Vite
+# 🛍️ Product Recommendation Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dynamic web application that allows users to share product-related queries and receive community-driven recommendations. This project showcases full-stack development skills, including user authentication, responsive design, and secure data handling.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [Live Site URL](#)
 
-## Expanding the ESLint configuration
+## 📂 Repositories
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Client**: [GitHub Link](#)
+- **Server**: [GitHub Link](#)
+
+## 🧩 Features
+
+- **User Authentication**: Email/password and Google sign-in using Firebase.
+- **Query Management**: Create, update, and delete product-related queries.
+- **Community Recommendations**: View and contribute recommendations for various products.
+- **Personal Dashboards**: Access personalized sections for "My Queries" and "My Recommendations".
+- **Responsive Design**: Optimized for mobile, tablet, and desktop views.
+- **Secure Configuration**: Environment variables used for Firebase and MongoDB credentials.
+- **JWT Authentication**: Secure private routes with JSON Web Tokens.
+- **Search Functionality**: Search queries based on product names.
+- **Dynamic Layouts**: Toggle between different grid layouts on the Queries page.
+
+## 🛠️ Tech Stack
+
+**Client**:
+
+- React.js
+- React Router
+- Tailwind CSS
+- Firebase Authentication
+
+**Server**:
+
+- Node.js
+- Express.js
+- MongoDB
+- JWT for authentication
+
+## 📄 Installation & Setup
+
+1. **Clone the repositories**:
+
+   ```bash
+   git clone [client-repo-url]
+   git clone [server-repo-url]
