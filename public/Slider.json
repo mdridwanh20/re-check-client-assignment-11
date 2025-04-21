@@ -1,0 +1,24 @@
+[
+    {
+      "id": "1",
+      "title": "Looking for a Budget Smartphone",
+      "subtitle": "Need suggestions under $300",
+      "description": "I'm searching for a reliable smartphone with decent camera quality and battery life within a $300 budget.",
+      "image": "https://i.ibb.co.com/6cDjT32g/pexels-photo-89955.webp"
+    },
+    {
+      "id": "2",
+      "title": "Recommendation: Moto G Power",
+      "subtitle": "Affordable and long-lasting",
+      "description": "The Moto G Power offers excellent battery life and decent performance, making it a great option under $300.",
+      "image": "https://i.ibb.co.com/x8CDZ6xt/pexels-photo-404280.webp"
+    },
+    {
+      "id": "3",
+      "title": "User Feedback on Moto G Power",
+      "subtitle": "Personal experience",
+      "description": "I've been using the Moto G Power for several months, and its battery performance is impressive for the price point.",
+      "image": "https://i.ibb.co.com/nMRQ867d/pexels-photo-1100447.webp"
+    }
+  ]
+  

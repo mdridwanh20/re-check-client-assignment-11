@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "Free",
+      "price": 0,
+      "unit": "month",
+      "description": "Lorem ipsum dolor sit amet.",
+      "features": [
+        { "text": "2 links", "available": true },
+        { "text": "Own analytics platform", "available": true },
+        { "text": "Chat support", "available": false },
+        { "text": "Mobile application", "available": false },
+        { "text": "Unlimited users", "available": false }
+      ],
+      "buttonText": "Get Started",
+      "highlight": false,
+      "background": "white",
+      "buttonColor": "pink-100",
+      "textColor": "pink-600"
+    },
+    {
+      "id": 2,
+      "name": "Pro",
+      "price": 18,
+      "unit": "month",
+      "description": "Ut enim ad minim veniam.",
+      "features": [
+        { "text": "2 links", "available": true },
+        { "text": "Own analytics platform", "available": true },
+        { "text": "Chat support", "available": true },
+        { "text": "Mobile application", "available": false },
+        { "text": "Unlimited users", "available": false }
+      ],
+      "buttonText": "Get Started",
+      "highlight": true,
+      "highlightText": "Best Value",
+      "highlightColor": "yellow-400",
+      "background": "white",
+      "buttonColor": "pink-500",
+      "textColor": "white"
+    },
+    {
+      "id": 3,
+      "name": "Enterprise",
+      "price": null,
+      "unit": null,
+      "description": "Nisi ut aliquip ex ea commodo consequat.",
+      "features": [
+        { "text": "2 links", "available": true },
+        { "text": "Own analytics platform", "available": true },
+        { "text": "Chat support", "available": true },
+        { "text": "Mobile application", "available": true },
+        { "text": "Unlimited users", "available": true },
+        { "text": "Customize Panel", "available": true }
+      ],
+      "buttonText": "Get Started",
+      "highlight": false,
+      "background": "blue-600",
+      "buttonColor": "white",
+      "textColor": "blue-600",
+      "textColorInverse": "white",
+      "customPriceText": "Let's Talk"
+    }
+  ]
+  
