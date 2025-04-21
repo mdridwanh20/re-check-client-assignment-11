@@ -4,12 +4,7 @@ A dynamic web application that allows users to share product-related queries and
 
 ## 🚀 Live Demo
 
-🔗 [Live Site URL](#)
-
-## 📂 Repositories
-
-- **Client**: [GitHub Link](#)
-- **Server**: [GitHub Link](#)
+🔗 https://re-check-assignment-11.web.app
 
 ## 🧩 Features
 
